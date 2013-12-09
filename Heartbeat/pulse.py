@@ -57,7 +57,7 @@ def send_data(log_message):
 # todo figure out what a switch statement, dictionary of functions, 
 
 # Todo - Try catch exceptions - Look at how to do error exceptions 
-
+# what is a doc string bpython and Ipython
 
 def errors(status):
 	# r.status_code == requests.codes.ok 
